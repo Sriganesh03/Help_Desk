@@ -1,0 +1,1 @@
+body,html{height:100%}body{font-family:Oxygen,sans-serif;min-height:100%}.wrapper{min-height:100vh;display:flex;flex-direction:column}.contents-wrapper,.footer-wrapper,.header-wrapper{margin:0 auto;max-width:800px}.contents-wrapper{margin-top:3rem;margin-bottom:2rem;flex:1;line-height:1.5;font-size:16px}.contents-wrapper .content{padding-left:3rem;padding-right:3rem}
